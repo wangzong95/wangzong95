@@ -6,4 +6,4 @@ I’m interested in Mathematical Biology，Near optimal control，Stochastic epi
 
 I’m currently learning Python， R，Julia
 
-WeChat：生物数学
+Wechat Public：生物数学
