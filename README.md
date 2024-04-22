@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Ningxia University, Yinchuan, Ningxia, 750021
+Qingdao University ofTechnology, Qingdao, Yinchuan, 266520
 
-I’m interested in Mathematical Biology，Near optimal control，Stochastic epidemic system
+I’m interested in Mathematical Biology，Near optimal control，Stochastic epidemic system， G-Brown motion
 
 I’m currently learning Python， R，Julia
 
